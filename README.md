@@ -1,74 +1,83 @@
-- 👋 Hi, I’m @CacoTheCreator
 # 👋 Juan Carlos Latorre Rincón
 
-**Ingeniero Comercial** | **Máster en Business Analytics** | **Especialista en Marketing Digital**  
+**Ingeniero Comercial** | **Máster en Business Analytics**  
+**Especialista en Marketing Digital y Análisis de Datos**  
 📍 Actualmente en Europa  
 📧 [juanlatorrerincon@gmail.com](mailto:juanlatorrerincon@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/juancarloslr10/)
+📱 +34 600 038 883  
+🔗 [LinkedIn](https://www.linkedin.com/in/juancarloslr10/)
 
 ---
 
-### 🌱 Acerca de Mí
-Apasionado por las tecnologías disruptivas y el arte como medio de comunicación, siempre he buscado generar valor en cada proyecto que emprendo. 
-Actualmente, estoy cursando un máster en Big Data orientado al desarrollo deportivo, gestiono una Start-Up de Marketing Digital y desarrollo mi carrera artística. 
-En mi formación y experiencia he adquirido una visión integral que me permite adaptarme a distintos contextos y necesidades empresariales.
+### 🌱 Sobre Mí
+
+Apasionado por las tecnologías rupturistas, el arte como medio de comunicación y la generación de valor como propuesta de negocio. He participado profesionalmente en múltiples proyectos combinando análisis de datos, visión estratégica y creatividad. 
+
+Actualmente curso un Máster en Big Data orientado al desarrollo deportivo, lidero una agencia de marketing digital y desarrollo una carrera artística bajo el nombre **Eldiez**.
 
 ---
 
 ### 💼 Experiencia Profesional
 
-- **Director Comercial y de Marketing**  
-  **EPA Growing** (Nov 2023 – Presente)
+- **VIS10N (Agencia de Marketing Digital)**  
+  *Director y asesor general* (Nov 2023 – Presente)
 
-- **Becario en Análisis de Mercado y Comunicación**  
-  **Grupo Puentes** (Jul 2024 – Presente)
+- **Grupo Puentes (Becario en Desarrollo de Negocios)**  
+  Jul 2024 – Feb 2025
 
-- **Soporte de Ventas y Asesor Creativo**  
-  **Rakau Chile SpA** (Mar 2021 – Jun 2021)
+- **Kraneo SA (Práctica Profesional - Soporte y Análisis de Ventas)**  
+  Jul 2023 – Dic 2023
 
-- **Práctica Profesional en Análisis Comercial**  
-  **Kraneo SA** (Jul 2023 – Oct 2023)
+- **Rakau Chile SpA (Práctica Intermedia - Soporte de Ventas y Asesoría Creativa)**  
+  Mar 2021 – Jun 2021
 
-- **Carrera Artística: Eldiez**  
-  Director Artístico y Comercial (2019 – Presente)
+- **Universidad Adolfo Ibáñez (Ayudante de Cálculo)**  
+  Jul 2018 – Dic 2023
+
+- **Sport Academy (Scouting de jugadores)**  
+  Mar 2015 – Jul 2015
+
+- **Eldiez (Carrera Artística)**  
+  *Dirección y gestión de carrera musical* (2019 – Presente)
 
 ---
 
 ### 🎓 Formación Académica
 
-- **Ingeniería Comercial y Máster en Business Analytics**  
-  *Universidad Adolfo Ibáñez* (Mar 2018 – Dic 2023)
+- **Ingeniería Comercial + Máster en Business Analytics**  
+  *Universidad Adolfo Ibáñez*
 
-- **Certificación en Marketing Digital y E-commerce**  
-  *Google* (Mar 2024 – Jul 2024)
+- **Máster en Big Data, Scouting de Jugadores y Análisis de Juego**  
+  *Universidad Europea de Madrid*
+
+- **Beca Deportiva**  
+  *Butte College, California (2019 – 2020)*
+
+- **Google Certificate**  
+  Fundamentos del E-commerce y el Marketing Digital (2024)
 
 ---
 
-### 🔧 Habilidades
+### 🧰 Herramientas y Lenguajes
 
-- **Herramientas de Análisis**: Excel, R (básico), Python (básico)
+- **Lenguajes**: Python (básico), R (básico), SQL (básico)
+- **Herramientas**: Excel, Canva, herramientas de IA (ChatGPT, Sora), Streamlit, GitHub
 - **Idiomas**: Español (nativo), Inglés (avanzado), Portugués (básico)
-- **Habilidades Sociales**: Trabajo en equipo, comunicación efectiva, pensamiento estratégico
 
 ---
 
-### ✨ Intereses y Pasatiempos
+### 🧠 Aptitudes Profesionales
 
-- **Tecnología**: Big Data y Análisis de Negocios
-- **Arte y Música**: Desarrollo artístico a través de la música y comunicación visual
-- **Deporte**: Experiencia con beca deportiva en Butte College, CA y actividades de voluntariado
+Como profesional con una sólida base analítica y visión creativa, me caracterizo por ser un aliado leal, adaptable y orientado a resultados. Me apasiona convertir ideas en soluciones concretas y útiles, especialmente en proyectos donde se cruza el deporte, la tecnología y el marketing.
 
 ---
 
-### 📈 Objetivos y Aptitudes
+### 🤝 Conecta Conmigo
 
-Mi experiencia en diversas industrias me ha ayudado a desarrollar una perspectiva única, combinando el análisis de datos con una sensibilidad social para entender mejor las necesidades de los negocios y de las personas. Me considero un aliado leal y orientado a los resultados, siempre con energía y disposición para contribuir con nuevas ideas y soluciones.
-
----
-
-### 🌍 Conéctate conmigo
-
-Si estás interesado en colaborar o discutir ideas, no dudes en ponerte en contacto conmigo a través de [LinkedIn](https://www.linkedin.com/in/juancarloslr10/) o por correo en [juanlatorrerincon@gmail.com](mailto:juanlatorrerincon@gmail.com). ¡Será un placer conectar contigo!
+Si estás interesado en colaborar, construir algo nuevo o intercambiar ideas:
+📬 [juanlatorrerincon@gmail.com](mailto:juanlatorrerincon@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/juancarloslr10/)
 
 ---
 
+**Gracias por leer. Este perfil es solo una pequeña parte del juego.**
