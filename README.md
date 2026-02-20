@@ -4,7 +4,6 @@
 **Especialista en Marketing Digital y Análisis de Datos**  
 📍 Actualmente en Europa  
 📧 [juanlatorrerincon@gmail.com](mailto:juanlatorrerincon@gmail.com)  
-📱 +34 600 038 883  
 🔗 [LinkedIn](https://www.linkedin.com/in/juancarloslr10/)
 
 ---
