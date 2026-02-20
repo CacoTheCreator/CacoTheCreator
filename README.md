@@ -19,7 +19,7 @@ Actualmente curso un Máster en Big Data orientado al desarrollo deportivo, lide
 ### 💼 Experiencia Profesional
 
 - **VIS10N (Agencia de Marketing Digital)**  
-  *Director y asesor general* (Nov 2023 – Presente)
+  *Director y asesor general* (Nov 2021 – Presente)
 
 - **Grupo Puentes (Becario en Desarrollo de Negocios)**  
   Jul 2024 – Feb 2025
